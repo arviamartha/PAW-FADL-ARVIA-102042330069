@@ -1,5 +1,5 @@
 <?php
-// Inisialisasi variabel untuk menyimpan nilai input dan error
+
 $nama = $email = $nim = $jurusan = $fakultas = "";
 $namaErr = $emailErr = $nimErr = $jurusanErr = $fakultasErr = "";
 
